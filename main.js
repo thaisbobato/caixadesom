@@ -18,5 +18,5 @@ function tocaSom(idElementoAudio){
     tecla.onclick = function(){
     tocaSom(idAudio);
     }
-    contador = contador + 1;
+    
     }
